@@ -13,4 +13,4 @@ npm start
 
 ## 测试
 
-Open [http://localhost:3000/graphql](http://localhost:3000/graphql)
+打开 [http://localhost:3000/graphql](http://localhost:3000/graphql)

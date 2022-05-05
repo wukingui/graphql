@@ -1,0 +1,21 @@
+{
+  "name": "graphql-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=development node ./start.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-errors": "^1.9.0",
+    "apollo-server-express": "^3.6.4",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "express": "^4.17.3",
+    "graphql": "^16.4.0",
+    "mongoose": "^6.2.4"
+  }
+}
