@@ -63,8 +63,6 @@ const get = (type)=>{
       params.skip = !params.skip ? 0 : params.skip * params.limit;
     
     }
-  
-
     return [ err, params ]
  
   }

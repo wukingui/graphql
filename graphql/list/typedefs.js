@@ -35,7 +35,6 @@ export const Schema = `
   }
 
 `
-
 export const Query = `
 
   # 查询
